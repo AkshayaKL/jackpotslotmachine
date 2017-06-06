@@ -1,0 +1,142 @@
+.slot-container {
+    background-color:brown;
+    vertical-align: middle;
+    font-size: 40px;
+    font-family: Leelawadee UI Semilight, Calibri, Arial;
+   
+    
+               
+       
+}
+
+
+.slot {
+    border: 3px solid green;
+    height: 0;
+    padding-bottom: 30%;
+    width: 32%;
+    margin-right: 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    float: left; 
+    box-sizing: border-box;
+}
+
+#slot1 {
+    margin-left: 1%;
+}
+
+
+h1 {
+    color: #FC3FD3;
+    text-align: center;
+    font-family: Century Gothic;
+    font-size: 5em;
+    height: 50px;
+}
+
+p {
+    text-align: center;
+    vertical-align: middle;
+    justify-content: center;
+}
+
+
+button {
+    position: absolute;
+    font-size:20px;
+    display: block;
+    
+    
+    border: 2px solid black;
+    top:20px;
+    left:550px;
+    
+   
+    
+    height:100px;
+    width:200px;
+    border-radius:100px; 
+
+
+}
+
+button:hover {
+    background-color: white;
+    color:black;
+}
+
+.button {
+    color: black;
+    background-color:#FFA500;
+    
+}
+
+
+
+
+.answer {
+    font-family: Century Gothic;
+    font-size: 20px;
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+button
+{
+cursor:pointer;
+}
+.hidden
+{
+display:none;
+}
+#scorecard
+{
+position:relative;
+left:750px;
+width:136px;
+height:131px;
+background-size:136px 131px;
+background:url(https://raw.githubusercontent.com/AkshayaKL/spidertask1/master/scorecard.png);
+align:center;
+
+}
+h3
+{
+position:relative;
+left:40px;
+}
+.slot
+{
+border:solid;
+height:200px;
+width:200px;
+border-radius:200px;
+font-size:300%;
+color:white;
+background-color:black;
+text-align:center;
+font-style:oblique;
+
+
+
+}
+#mainbox
+{
+position:relative;
+left:100px;
+}
+body
+{
+
+background:url(https://www.colourbox.com/preview/2736779-casino-roulette-in-water-and-fire-isolated-on-black-background.jpg);
+
+}
+foot
+{
+position:relative;
+left:300px;
+top:300px;
+}
