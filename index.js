@@ -92,7 +92,7 @@
     {
       if(document.getElementById("randomX1").innerHTML===document.getElementById("randomX2").innerHTML)
     {
-      if(document.getElementById("randomX2")===document.getElementById("randomX3"))
+      if(document.getElementById("randomX2").innerHTML===document.getElementById("randomX3").innerHTML)
        {count++;
 
        content = "JackPOt!!!";
